@@ -96,7 +96,4 @@ Thus, the circular convolution of the two given sequences were performed and its
 <br>else
 <br>x=[x,zeros(1,abs(N3))];
 <br>end
-<br>disp(x)
-<br>disp(h)
-<br>for n=1:N
-<br>y(n)=0;
+
