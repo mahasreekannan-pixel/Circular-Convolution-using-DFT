@@ -100,18 +100,3 @@ Thus, the circular convolution of the two given sequences were performed and its
 <br>disp(h)
 <br>for n=1:N
 <br>y(n)=0;
-<br>for i=1:N
-<br>j=n-i+1;
-<br>if(j<=0)
-<br>j=N+j;
-<br>end
-<br>y(n)=y(n)+x(i)*h(j);
-<br>end
-<br>end
-<br>disp(y)
-<br>n=0:N-1;
-<br>subplot(3,1,3);
-<br>plot2d3(n,y);
-<br>xlabel('time');
-<br>ylabel('amplitude');
-<br>title('circular convolution');
