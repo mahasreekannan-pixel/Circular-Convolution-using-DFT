@@ -53,15 +53,15 @@ PC installed with SCILAB
 
 
 <br>
-### CALCULATIONS:
-<br>
+**CALCULATIONS:
+**<br>
 <br><img width="957" height="1600" alt="image" src="https://github.com/user-attachments/assets/2e5a753f-323e-4da4-8d5d-73d05f0228cd" />
 
 <br>
 <br>
 <br>
-### SAMPLE OUTPUT:
-<br>
+** SAMPLE OUTPUT:
+**<br>
 <br><img width="856" height="733" alt="image" src="https://github.com/user-attachments/assets/5603c2ae-0135-44a2-b372-eeabecf4ddd8" />
 
 <br>
