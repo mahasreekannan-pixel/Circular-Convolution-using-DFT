@@ -72,17 +72,4 @@ PC installed with SCILAB
 ## RESULT:
 Thus, the circular convolution of the two given sequences were performed and its result was verified.
 
-<br>clear;
-<br>x=[1 1 1 1];
-<br>n1=0:1:length(x)-1;
-<br>subplot(3,1,1);
-<br>plot2d3(n1,x);
-<br>xlabel('time');
-<br>ylabel('amplitude');
-<br>title('input sequence');
-<br>h=[1 2 3];
-<br>n2=0:1:length(h)-1;
-<br>subplot(3,1,2);
-<br>plot2d3(n2,h);
-
 
