@@ -84,16 +84,5 @@ Thus, the circular convolution of the two given sequences were performed and its
 <br>n2=0:1:length(h)-1;
 <br>subplot(3,1,2);
 <br>plot2d3(n2,h);
-<br>xlabel('time');
-<br>ylabel('amplitude');
-<br>title('impulse sequence');
-<br>N1=length(x);
-<br>N2=length(h);
-<br>N=max(N1,N2);
-<br>N3=N1-N2;
-<br>if(N3>0)
-<br>h=[h,zeros(1,N3)];
-<br>else
-<br>x=[x,zeros(1,abs(N3))];
-<br>end
+
 
